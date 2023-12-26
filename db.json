@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "xumoyin",
+      "email": "xumoyin@gmail.com",
+      "username": "xumoyin544",
+      "address": "Andijon",
+      "contact": "998901234567",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "Usmon",
+      "email": "usmon@gmail.com",
+      "username": "usmon77",
+      "address": "Toshkent",
+      "contact": "998931203940",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "Usmon",
+      "email": "usmon@gmail.com",
+      "username": "usmon77",
+      "address": "Toshkent",
+      "contact": "998931203940",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone",
+      "price": "1500",
+      "color": "black",
+      "category": "Phone",
+      "img": "url",
+      "id": 1
+    }
+  ]
+}
